@@ -8,3 +8,4 @@ Funded by the [UK Academy of Medical Sciences](https://acmedsci.ac.uk/).
 - [Mehwish Alam](https://sites.google.com/view/mehwish-alam/home). Telecom Paris, Institute Polytechnique of Paris, Paris, France.
 - [Jiaoyan Chen](https://chenjiaoyan.github.io/). Department of Computer Science, The University of Manchester, Manchester, The UK
 - [Heiko Paulheim](https://www.heikopaulheim.com/). University of Mannheim, Germany.
+- [Dagmar Gromann](http://dagmargromann.com/). University of Vienna, Vienna, Austria.
