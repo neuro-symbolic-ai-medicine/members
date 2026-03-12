@@ -9,3 +9,4 @@ Funded by the [UK Academy of Medical Sciences](https://acmedsci.ac.uk/).
 - [Jiaoyan Chen](https://chenjiaoyan.github.io/). Department of Computer Science, The University of Manchester, Manchester, The UK
 - [Heiko Paulheim](https://www.heikopaulheim.com/). University of Mannheim, Germany.
 - [Dagmar Gromann](http://dagmargromann.com/). University of Vienna, Vienna, Austria.
+- [Janna Hastings](https://hastingslab.org/). Idiap Research Institute, Martigny, Switzerland. 
